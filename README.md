@@ -8,6 +8,8 @@ Using tensorflow to aim vehicle detection using trained SSD(single shot detector
 # Preview
 ![Hasil kak](https://raw.githubusercontent.com/muhkhoi/TensorflowVehicleDetector/master/Screenshot%20from%202019-04-18%2004-48-09.png)
 
+Tested with Nvidia Geforce 735M (384 CUDA Cores) 1024MB Memory, runs on 5-7FPS
+
 # Models
-currently related research on this field?
+currently research on this related field?
 contact muhamadkoirul@gmail.com i will send .protobuf files
