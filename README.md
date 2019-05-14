@@ -11,5 +11,4 @@ Using tensorflow to aim vehicle detection using trained SSD(single shot detector
 Tested with Nvidia Geforce 735M (384 CUDA Cores) 1024MB Memory, runs on 5-7FPS
 
 # Models
-currently research on this related field?
-contact muhamadkoirul@gmail.com i will send .protobuf files
+
